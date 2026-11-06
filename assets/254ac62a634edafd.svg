@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="80px" height="80px" viewBox="0 0 80 80" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>图标</title>
+    <defs>
+        <linearGradient x1="13.7609057%" y1="15.2120533%" x2="76.4471819%" y2="84.4706247%" id="linearGradient-1">
+            <stop stop-color="#26CB96" offset="0%"></stop>
+            <stop stop-color="#019E90" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-2">
+            <stop stop-color="#FFFFFF" offset="0%"></stop>
+            <stop stop-color="#E3FFF7" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="画板9" transform="translate(-570.000000, -1777.000000)">
+            <g id="编组-2" transform="translate(30.000000, 1747.000000)">
+                <g id="图标" transform="translate(540.000000, 30.000000)">
+                    <g id="路径-3" fill="url(#linearGradient-1)">
+                        <circle id="蒙版" cx="40" cy="40" r="40"></circle>
+                    </g>
+                    <g id="资源-1" transform="translate(11.000000, 21.000000)" fill="url(#linearGradient-2)" fill-rule="nonzero">
+                        <path d="M31.3218631,0 L57,14.9411111 C57.009826,21.9975915 54.4012128,28.7931694 49.6874767,34 L49.6874767,34 L12,34 C22.7247909,25.752142 29.691535,13.4930085 31.3218631,0 L31.3218631,0 Z M20.657277,3 L28,7.33446258 C24.8975528,18.121896 18.2909178,27.52172 9.25821596,34 L9.25821596,34 L6,34 C15.1868002,26.4053123 20.5612332,15.0384381 20.657277,3 L20.657277,3 Z M10.7064935,6 L18,10.3350498 C16.0712555,19.8239082 10.8080435,28.2491586 3.21662338,34 L3.21662338,34 L0,34 C5.32734189,29.3718563 9.12687932,23.1588969 10.8748052,16.217645 C11.3024546,14.6534545 11.5195395,13.036394 11.52,11.4116032 C11.5188449,9.57564794 11.2445036,7.75067592 10.7064935,6 L10.7064935,6 Z" id="形状结合"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

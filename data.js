@@ -1,0 +1,25 @@
+// 用户指定的虚拟展示资料，仅用于非官方界面演示。
+window.RECONSTRUCTION_DATA = {
+  "name": "陈钰安",
+  "gender": "女",
+  "birthday": "2006年10月26日",
+  "ethnicity": "回族",
+  "identity": "341502200610260044",
+  "school": "上海师范大学",
+  "level": "本科",
+  "major": "地理科学",
+  "years": "4 年",
+  "category": "普通高等教育",
+  "mode": "普通全日制",
+  "college": "地理科学",
+  "department": "501",
+  "className": "251250344",
+  "studentNumber": "20251228320681",
+  "enrollment": "2025年09月01日",
+  "status": "在籍（注册学籍）",
+  "graduation": "2029年06月25日",
+  "verificationCode": "DEMO-NOT-VALID",
+  "updated": "2026年10月20日",
+  "validUntil": "2027-04-17",
+  "photo": "demo-avatar.jpg"
+};
